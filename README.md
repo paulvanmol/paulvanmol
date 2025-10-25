@@ -66,9 +66,6 @@ Belgian Maps in SAS - geospatial visualization library for Belgian administrativ
 #### [SASCodeSnippets](https://github.com/paulvanmol/SASCodeSnippets)
 Curated collection of reusable SAS code patterns and best practices for data processing and analysis.
 
-#### [DataMartDevelopment](https://github.com/paulvanmol/DataMartDevelopment)
-ETL tool and data warehouse development patterns for building scalable data marts.
-
 ### 💼 Professional Focus
 
 - 🎓 **Technical Training**: Designing and delivering courses on data engineering, cloud platforms, and SAS Viya
