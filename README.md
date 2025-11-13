@@ -44,7 +44,7 @@ I'm a Principal Technical Training Consultant and Certified Online Technical Tra
 - 📖 Documenting SAS Viya migration patterns and new features
 - 🗺️ Building geospatial visualization tools for Belgian administrative data
 - ⚡ Exploring data quality tools and Great Expectations
-- 🏗️ Infrastructure as Code with Terraform/Bicep
+- 🏗️ Kubernetes Administration
 
 ### 🌱 Currently Learning
 
